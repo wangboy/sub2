@@ -1,0 +1,3 @@
+[submodule "coresub"]
+	path = coresub
+	url = git@github.com:wangboy/coresub.git
